@@ -42,9 +42,4 @@ to hide admin(Django administration).
 
 ## Uses
 * Restaurant Order
-* Facebook Commerce
-* etc...
-
-### Contact me 
-Facebook: facebook.com/inzamul36 <br>
-Email: inzamul36@gmail.com, inzamuk36@live.com, inzamul36@yahoo.com    
+   
